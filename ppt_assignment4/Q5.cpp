@@ -33,3 +33,4 @@ int main()
 
     return rows - 1;
 }
+//https://leetcode.com/problems/arranging-coins/submissions/982559228/
