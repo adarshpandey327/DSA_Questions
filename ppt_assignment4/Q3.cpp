@@ -30,7 +30,7 @@ int main()
     vector<vector<int>>matn(n,vector<int>(m));
     for(int i=0; i<m; i++) {
         for(int j=0; j<n; j++) {
-            swap(matn[i][j],matn[j][i]);
+           matn[i][j]=mat[i][j];
         }
     }
     for(int i=0; i<n; i++) {
