@@ -1,0 +1,1 @@
+This is a file sample which i wana retrieve using urllib  module in pyhton
